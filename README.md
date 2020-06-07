@@ -22,7 +22,7 @@ Track listing
 
 # Inspiration:
 
-When first assigned to find the titles between these characters ("=="), I was confident I would be able to accomplish it as I had extracted text between a pair of delimeters before. However, the challenge was to find the top 10 most common titles, and I was excited to do that. The data structure that instantly came to mind was a HashMap, as I could associate the number of times a title had occured to 
+When first assigned to find the titles between these characters ("=="), I was confident I would be able to accomplish it as I had extracted text between a pair of delimeters before. However, the challenge was to find the top 10 most common titles, and I was excited to do that. The data structure that instantly came to mind was a HashMap, as I could associate the number of times a title had occured to the name of the title.
 
 # What it does:
 
